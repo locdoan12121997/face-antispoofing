@@ -1,0 +1,30 @@
+# video file
+*.mp4
+
+#image files
+*.jpg
+*.png
+
+#vscode folder
+/.vscode/
+
+#cache folder
+/__pycache__/
+
+#virtual environment
+/thesis_venv/
+
+#vgg19 weight
+vgg19.npy
+*.h5
+*.pyc
+
+HCFT/__pycache__/
+.venv/
+temp_seq/
+output_image/
+video/
+.idea/
+output_image/
+
+*.xml
